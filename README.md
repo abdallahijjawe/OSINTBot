@@ -115,10 +115,10 @@ python bot.py
 3. Drop in any target:
 
 ```
-/search john.doe@example.com
-/search 192.168.1.1
-/search johndoe
-/search example.com
+john.doe@example.com
+192.168.1.1
+johndoe
+example.com
 ```
 
 4. Wait a few seconds while the bot runs its pipeline
