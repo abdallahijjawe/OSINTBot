@@ -48,7 +48,8 @@ No manual searching. No copy-pasting results. Just drop in a query and get a str
 
 ## 📸 Demo
 
-> _Screenshot or GIF of the bot in action — coming soon_
+<img width="850" height="656" alt="image" src="https://github.com/user-attachments/assets/0bdea682-903a-4309-87c1-b666a01af1a0" />
+
 
 ---
 
