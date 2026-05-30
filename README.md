@@ -158,7 +158,6 @@ DNS/WHOIS  IP Geolocation
 
 All OSINT modules run in **parallel** using `asyncio` and `ThreadPoolExecutor` for fast results.
 
----
 
 
 ---
@@ -172,23 +171,6 @@ All OSINT modules run in **parallel** using `asyncio` and `ThreadPoolExecutor` f
 | `MAX_RESULTS` | Max results per OSINT source (default: 10) |
 | `REPORT_LOGO` | Path to your logo for PDF branding (optional) |
 
----
-
-## 🤝 Contributing
-
-Contributions are welcome! Feel free to:
-
-- Open issues for bugs or feature requests
-- Submit PRs for improvements
-- Add new OSINT modules or data sources
-
-```bash
-# Fork, then clone your fork
-git checkout -b feature/your-feature-name
-git commit -m "Add: your feature description"
-git push origin feature/your-feature-name
-# Open a Pull Request
-```
 
 ---
 
@@ -203,14 +185,11 @@ git push origin feature/your-feature-name
 
 ---
 
-## 📄 License
 
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
 
----
 
 ## 📬 Contact
 
-Built by **[Your Name]** — feel free to DM me on Telegram or open an issue.
+Built by **AbdallaHijjawe** — feel free to DM me 
 
 > ⭐ If you found this useful, consider starring the repo!
