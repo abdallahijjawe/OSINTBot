@@ -76,7 +76,7 @@ No manual searching. No copy-pasting results. Just drop in a query and get a str
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/osint-intel-bot.git
+git clone https://github.com/abdallahijjawe/OSINTBot.git
 cd osint-intel-bot
 
 # 2. Create a virtual environment
