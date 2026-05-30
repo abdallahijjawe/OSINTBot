@@ -160,24 +160,6 @@ All OSINT modules run in **parallel** using `asyncio` and `ThreadPoolExecutor` f
 
 ---
 
-## 📁 Project Structure
-
-```
-osint-intel-bot/
-├── bot.py              # Main Telegram bot entrypoint
-├── osint/
-│   ├── dorker.py       # Google dork engine
-│   ├── sherlock.py     # Username search wrapper
-│   ├── dns_lookup.py   # DNS/WHOIS/IP recon
-│   └── classifier.py   # Target type detection
-├── ai/
-│   └── analyzer.py     # Groq/LLaMA report generation
-├── report/
-│   └── pdf_builder.py  # FPDF branded report builder
-├── .env.example
-├── requirements.txt
-└── README.md
-```
 
 ---
 
