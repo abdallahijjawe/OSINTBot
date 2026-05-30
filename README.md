@@ -5,7 +5,6 @@
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge&logo=python)
 ![Telegram](https://img.shields.io/badge/Telegram-Bot-26A5E4?style=for-the-badge&logo=telegram)
 ![LLaMA](https://img.shields.io/badge/LLaMA_3.3_70B-Groq-F55036?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
 **Drop in a name, email, IP, domain, phone, or username — get a full intelligence report in seconds.**
 
